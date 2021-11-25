@@ -15,7 +15,7 @@ Cse 2ndYear Student In Workshop
 # link tag
 [aditya](aec.edu.in) <br>
 # image tag
-![profile](https://wallpapercave.com/wp/wp7992348.jpg) 
+![profile](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2021_27/3489810/210709-pandas-mc-10262.JPG) 
 |S.NO|ROLL|NAME|BRANCH|
 |----|----|----|----|
 |1|20A91A05A6|NAMRATHA|CSE|
